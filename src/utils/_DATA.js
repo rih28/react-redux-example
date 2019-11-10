@@ -2,7 +2,6 @@ let users = {
   rhunter: {
     id: 'rhunter',
     name: 'Russell Hunter',
-    avatarURL: '/images/snow.jpg',
     projects: ['project_id_1'],
   }
 }
